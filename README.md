@@ -1,8 +1,8 @@
 # DVC_Tutorial
 
 <details><summary> <h2> 01 -DVC Installation </h2> </summary>
+<h2> <a href="https://github.com/ShubhPatil95/DVC_Tutorial/tree/01-DVC_Installation"> 01 -DVC Installation</a></h2> 
 <p>
-
 <h3>Before installing DVC, it is recommended to create a new virtual environment.</h3> 
 
 ### Step 1: Create a new conda environment
@@ -23,5 +23,6 @@ dvc --version
 ```
 * For details of installation as per your operating system please do refer below link.
 [DVC Installation Guide](https://dvc.org/doc/install)  
+
 </p>
 </details>
