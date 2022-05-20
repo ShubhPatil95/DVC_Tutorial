@@ -1,7 +1,7 @@
 # DVC_Tutorial
 
 <details><summary> <h2> 01 - DVC_Installation </h2> </summary>
-<h2> <a href="https://github.com/ShubhPatil95/DVC_Tutorial/tree/01-DVC_Installation"> 01 -DVC Installation</a></h2> 
+<h2> <a href="https://github.com/ShubhPatil95/DVC-01-Installation"> 01 -DVC Installation</a></h2> 
 <p>
 <h3>Before installing DVC, it is recommended to create a new virtual environment.</h3> 
 
