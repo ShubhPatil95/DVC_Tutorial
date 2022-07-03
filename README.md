@@ -217,7 +217,7 @@ git remote add origin https://github.com/ShubhPatil95/DVC-04-Simple_Project.git
 ```
 
 ### Step4  
-* Lets work on School-1 data, copy and paste containt of code.py and data.csv from here [code.py](https://github.com/ShubhPatil95/DVC-04-Simple_DVC_Project/blob/main/code.py) and [data.csv](https://raw.githubusercontent.com/ShubhPatil95/Raw_Data_Storage/main/data_school-1.csv)
+* Lets work on School-1 data, copy and paste containt of code.py and data.csv from here [code.py](https://github.com/ShubhPatil95/DVC-04-Simple_DVC_Project/blob/220e6405c49d091e68635604f60330864c1b5f62/code.py) and [data.csv](https://raw.githubusercontent.com/ShubhPatil95/Raw_Data_Storage/main/data_school-1.csv)
 
 ### Step5
 * Lets run a code.py and check the r_square.
@@ -244,7 +244,7 @@ git push -u origin main
  
 ### Step8
 * Now lets work on School-2 dataset and repeate the steps 3, 4, 5 and 7<br>
-* Step3: Replace content of code.py and data.csv with containt from [code.py](https://github.com/ShubhPatil95/DVC-04-Simple_Project/blob/4bcdc457b1e84cf6cb0e630b54a0efecd9b79844/code.py) and [data.csv](https://raw.githubusercontent.com/ShubhPatil95/Raw_Data_Storage/main/data_school-2.csv) <br>
+* Step3: Replace content of code.py and data.csv with containt from [code.py](https://github.com/ShubhPatil95/DVC-04-Simple_DVC_Project/blob/4bcdc457b1e84cf6cb0e630b54a0efecd9b79844/code.py) and [data.csv](https://raw.githubusercontent.com/ShubhPatil95/Raw_Data_Storage/main/data_school-2.csv) <br>
 * Step4: Run a code.py
   ```ruby
   python3 code.py  ## r_square = 0.20
@@ -262,7 +262,7 @@ git push -u origin main
      ```
 ### Step9
 * Now lets work on School-3 dataset and repeate the steps 3, 4, 5 and 7 <br>
-* Step3: Replace content of code.py and data.csv with containt from [code.py](https://github.com/ShubhPatil95/DVC-04-Simple_Project/blob/3045210cf52cb3cc7a3925327b15a2204fb41b49/code.py) and [data.csv](https://raw.githubusercontent.com/ShubhPatil95/Raw_Data_Storage/main/data_school-3.csv) <br>
+* Step3: Replace content of code.py and data.csv with containt from [code.py](https://github.com/ShubhPatil95/DVC-04-Simple_DVC_Project/blob/3045210cf52cb3cc7a3925327b15a2204fb41b49/code.py) and [data.csv](https://raw.githubusercontent.com/ShubhPatil95/Raw_Data_Storage/main/data_school-3.csv) <br>
 * Step4: Run a code.py
   ```ruby
   python3 code.py  ## r_square = 0.99
