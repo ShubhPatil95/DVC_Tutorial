@@ -217,7 +217,7 @@ git remote add origin https://github.com/ShubhPatil95/DVC-04-Simple_Project.git
 ```
 
 ### Step4  
-* Lets work on School-1 data, copy and paste containt of code.py and data.csv from here [code.py](https://github.com/ShubhPatil95/DVC-04-Simple_Project/blob/220e6405c49d091e68635604f60330864c1b5f62/code.py) and [data.csv](https://raw.githubusercontent.com/ShubhPatil95/Raw_Data_Storage/main/data_school-1.csv)
+* Lets work on School-1 data, copy and paste containt of code.py and data.csv from here [code.py](https://github.com/ShubhPatil95/DVC-04-Simple_DVC_Project/blob/main/code.py) and [data.csv](https://raw.githubusercontent.com/ShubhPatil95/Raw_Data_Storage/main/data_school-1.csv)
 
 ### Step5
 * Lets run a code.py and check the r_square.
