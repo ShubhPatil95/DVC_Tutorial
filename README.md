@@ -332,7 +332,7 @@ dvc pull        ## Your data.csv is also updated for School-2
 
 
 <details><summary> <h2> 05 - Metrics_Tracking </h2> </summary>
-<h2> <a href="https://github.com/ShubhPatil95/DVC-04-Simple_DVC_Project"> 05-DVC_Metrics_Tracking </a></h2>
+<h2> <a href="https://github.com/ShubhPatil95/DVC-05-Metrics_Tracking"> 05-DVC_Metrics_Tracking </a></h2>
 
 <p>
 <strong> In this tutorial we will see how DVC helps to track the metrics and reproduce the projects </strong>
